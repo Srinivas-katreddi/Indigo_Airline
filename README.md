@@ -56,3 +56,49 @@ Passenger reviews collected from **2006 to 2019**, including:
 ---
 
 ## 📁 Project Structure
+
+📦 Indigo-Airline-Customer-Experience
+│
+├── 📊 EDA(Indigo-Airline).ipynb
+│ └── Exploratory Data Analysis & Insights
+│
+├── 🤖 2.feature_eng&Model_Training.ipynb
+│ └── Feature Engineering, Model Training & Evaluation
+│
+├── 📄 README.md
+│ └── Project Documentation
+
+
+---
+
+## 📈 Key Insights
+- Customer satisfaction is highly influenced by **seat comfort**, **cabin service**, and **value for money**
+- Higher overall ratings strongly increase the likelihood of recommendation
+- Feature engineering improves model accuracy and reliability
+
+---
+
+## 🚀 Outcome
+- Built a **data-driven framework** to identify loyal customers  
+- Enabled **predictive insights** for customer experience improvement  
+- Strengthened skills in **EDA, feature engineering, and machine learning**
+
+---
+
+## 🔮 Future Enhancements
+- Implement advanced ML models (Random Forest, XGBoost)
+- Perform sentiment analysis on textual reviews
+- Create interactive dashboards using Power BI or Tableau
+
+---
+
+## 👤 Author
+**Sai Srinivas Katreddi**  
+🎓 Computer Science Graduate  
+📊 Aspiring Data Analyst / Software Professional  
+
+---
+
+⭐ *If you like this project, feel free to star the repository!*
+
+
